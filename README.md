@@ -1,0 +1,2 @@
+
+A puzzle involving images!
