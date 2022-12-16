@@ -14,7 +14,6 @@ export default function WhatIsDawdle() {
        event.preventDefault();
        localStorage.setItem('showWelcome', showNextTime.toString() )
        router.push("/game")
-
   }
   return (
     <>
